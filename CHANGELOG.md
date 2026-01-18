@@ -1,5 +1,25 @@
 # Changelog
 
+## [25.109.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.108.0...v25.109.0) (2026-01-18)
+
+
+### Features
+
+* **add:** 929004608201 ([#11318](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11318)) ([e3b1321](https://github.com/Koenkk/zigbee-herdsman-converters/commit/e3b132170671d67f93395f6258cd5d0ab9016b86))
+* **add:** DOM-Z-105P_RGBCCT ([#11310](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11310)) ([7fb04ee](https://github.com/Koenkk/zigbee-herdsman-converters/commit/7fb04ee2795d080e6393028957c46d9dac051b00))
+* **add:** GM35TEQ-TYZ-2/25 ([#11314](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11314)) ([0ec2707](https://github.com/Koenkk/zigbee-herdsman-converters/commit/0ec2707ae3b886ff5c3b0344ade30521f8c1382f))
+* **add:** LIA ([#11308](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11308)) ([5dc35ee](https://github.com/Koenkk/zigbee-herdsman-converters/commit/5dc35ee33a1d6772f3edf697145624f731e4ac72))
+* **add:** Light-ZSLL ([#11319](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11319)) ([e995dab](https://github.com/Koenkk/zigbee-herdsman-converters/commit/e995dab7a46d9215a548610ea8e3c938d9785e27))
+* **add:** ZF24 ([#11312](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11312)) ([66d7e7a](https://github.com/Koenkk/zigbee-herdsman-converters/commit/66d7e7acbd2286ccb34b147af0c02930756d23fa))
+* **add:** ZHT-S01 ([#11304](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11304)) ([089101e](https://github.com/Koenkk/zigbee-herdsman-converters/commit/089101e281606b2d47991427d9fe3c37b83add31))
+* Danfoss 014G2461: support `adaptation_run_status` `lost_in_progress` ([#11313](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11313)) ([12cfbe2](https://github.com/Koenkk/zigbee-herdsman-converters/commit/12cfbe24da774f2f66acaeef83d826b8504a6c22))
+
+
+### Bug Fixes
+
+* **detect:** Detect `Sonesse2 ULTRA 30 WF Li-ion Roll` as SOMFY-1241752 https://github.com/Koenkk/zigbee-herdsman-converters/issues/11316 ([a5f89cd](https://github.com/Koenkk/zigbee-herdsman-converters/commit/a5f89cd0d7370023b28b9b5d88e4a9181624a3bc))
+* Nous E13: fix alarm ringtone and working mode https://github.com/Koenkk/zigbee2mqtt/issues/30673 ([10dbe44](https://github.com/Koenkk/zigbee-herdsman-converters/commit/10dbe4432a3c7b6848688f0b0963db1f69119775))
+
 ## [25.108.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.107.0...v25.108.0) (2026-01-16)
 
 
